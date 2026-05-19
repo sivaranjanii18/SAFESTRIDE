@@ -1,0 +1,52 @@
+Location,Latitude,Longitude,Time,ReportText,HeelTap,RiskLabel
+"Vadapalani, Chennai",13.05,80.212,9:21 PM,man behaving inappropriately,0,0.6
+"Vadapalani, Chennai",13.05,80.212,12:30 PM,normal crowd uncomfortable,0,0.5
+"Vadapalani, Chennai",13.05,80.212,11:42 AM,minor unsafe feeling,0,0.5
+"Murugan Temple Vadapalani, Chennai",13.0827,80.2707,9:30 AM,crowd discomfort reported,0,0.5
+"Nungambakkam, Chennai",13.0604,80.2496,1:27 AM,suspicious activity at night,0,0.7
+"Poonamallee, Chennai",13.0827,80.2707,7:59 PM,unsafe environment at night,0,0.7
+"Airsite block 145, Chennai",13.0827,80.2707,3:48 PM,uncomfortable situation,0,0.5
+"Airsite, Ennore",13.0827,80.2707,9:51 PM,suspicious activity nearby,0,0.7
+"Air Nagar block 88, Ennore",13.0827,80.2707,6:58 PM,unsafe feeling in area,0,0.6
+"Air Nagar, Ennore",13.0827,80.2707,5:10 PM,crowd discomfort reported,0,0.5
+"Air Nagar, Ennore",13.0827,80.2707,5:17 PM,minor unsafe feeling,0,0.5
+"Tirumurthy Nagar, Nungambakkam, Chennai",13.0827,80.2707,5:30 PM,unsafe environment,0,0.6
+"Nungambakkam, Chennai",13.0604,80.2496,9:07 PM,suspicious activity at night,0,0.7
+"Nungambakkam, Chennai",13.0604,80.2496,11:00 PM,unsafe walking alone,0,0.7
+"Choolaimedu, Chennai",13.0676,80.2253,8:16 AM,normal discomfort reported,0,0.5
+"Tambaram Railway Station, Chennai",13.0827,80.2707,1:30 PM,crowded and uncomfortable,0,0.5
+"Park Town, Chennai",13.0827,80.2707,2:00 AM,suspicious movement at night,0,0.7
+"Thirumullaivoyal, Avadi",13.0827,80.2707,9:11 AM,normal unsafe feeling,0,0.5
+"Kannappar Thidal, Chennai",13.0827,80.2707,6:25 PM,unsafe crowd situation,0,0.6
+Chennai Central Railway Station,13.0827,80.2707,7:30 PM,crowded and unsafe,0,0.6
+"Central, Chennai",13.0827,80.2707,5:55 PM,unsafe environment reported,0,0.6
+"Poongavanapuram, Chennai",13.0827,80.2707,1:03 PM,minor unsafe feeling,0,0.5
+"Park Road, Chennai",13.0827,80.2707,10:24 PM,unsafe walking alone,0,0.7
+"Nunga, Chennai",13.0827,80.2707,6:00 PM,uncomfortable situation,0,0.5
+"Central, Chennai",13.0827,80.2707,4:39 AM,suspicious activity at night,0,0.7
+"Thirumullaivoyal, Chennai",13.0827,80.2707,12:44 PM,normal discomfort,0,0.5
+"T Nagar, Chennai",13.0418,80.2341,4:33 PM,crowded and unsafe,0,0.6
+"George Town, Chennai",13.0827,80.2707,5:36 PM,unsafe environment reported,0,0.6
+"Koyambedu, Chennai",13.07,80.194,10:14 AM,crowded and uncomfortable,0,0.5
+"Koyambedu, Chennai",13.07,80.194,9:14 PM,suspicious activity nearby,0,0.7
+"Koyambedu, Chennai",13.07,80.194,11:00 PM,unsafe situation at night,0,0.7
+"Rohini Theatre, Chennai",13.0827,80.2707,9:00 AM,group making uncomfortable comments,0,0.6
+"Anna Nagar, Chennai",13.085,80.2101,8:40 PM,man behaving inappropriately,0,0.6
+"Anna Nagar, Chennai",13.085,80.2101,1:00 PM,normal unsafe feeling,0,0.5
+"Anna Nagar, Chennai",13.085,80.2101,3:23 PM,man misbehaving,0,0.6
+"Anna Nagar, Chennai",13.085,80.2101,3:33 PM,man behaving inappropriately,0,0.6
+"Gopalapuram, Chennai",13.0487,80.258,4:00 PM,unsafe feeling in area,0,0.7
+"Gopalapuram, Chennai",13.0487,80.258,2:30 PM,minor unsafe feeling,0,0.5
+"Central, Chennai",13.0827,80.2707,7:10 PM,crowded unsafe area,0,0.6
+"Central, Chennai",13.0827,80.2707,9:25 PM,unsafe environment at night,0,0.7
+"Triplicane, Chennai",13.0827,80.2707,9:00 PM,group following me,1,1.0
+"Velachery, Chennai",12.975,80.22,8:15 PM,person following at night,1,1.0
+"Adyar, Chennai",13.0012,80.2565,6:45 PM,man staring continuously,0,0.5
+"Guindy, Chennai",13.01,80.22,9:10 PM,suspicious people around,0,0.7
+"Perambur, Chennai",13.121,80.232,10:20 PM,unsafe walking alone,0,0.7
+"Egmore, Chennai",13.0732,80.2609,8:05 PM,harassment reported,0,0.8
+"Besant Nagar, Chennai",13.0003,80.2665,6:20 PM,uncomfortable situation,0,0.5
+"Chromepet, Chennai",12.9516,80.1462,7:50 PM,verbal harassment,0,0.8
+"Mylapore, Chennai",13.0339,80.269,5:40 PM,unsafe vibes,0,0.6
+"Ashok Nagar, Chennai",13.0373,80.2123,8:30 PM,suspicious activity,0,0.7
+"Saidapet, Chennai",13.0237,80.2283,9:15 PM,man following me,1,1.0
